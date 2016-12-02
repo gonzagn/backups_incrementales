@@ -1,7 +1,7 @@
 # /bin/bash
 USUARIO="root"
-PASSWORD="3jYn22hgqXZJVxjn"
-DESTINO="s3://backups-dbase/ALISEDA_&_LADESPENSA/CHECKSUM"
+PASSWORD="secret"
+DESTINO="s3://backups-dbase"
 NOW=$(date "+%Y-%m-%d")
 TITLE="mysql"
 INFO="information_schema"
